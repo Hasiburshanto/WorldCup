@@ -97,7 +97,7 @@ public class ManuBarAdaptar extends BaseAdapter {
             country4.setImageResource(R.drawable.japan);
         }
 
-        return null;
+        return convertView;
     }
 
 }
