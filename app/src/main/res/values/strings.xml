@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">WorldCup</string>
+
+    <string-array name="GroupName">
+        <item>Group A</item>
+        <item>Group B</item>
+        <item>Group C</item>
+        <item>Group D</item>
+        <item>Group E</item>
+        <item>Group F</item>
+        <item>Group G</item>
+        <item>Group H</item>
+
+    </string-array>
+
+
+
+    <string-array name="GroupA">
+            <item>Russia</item>
+            <item>Saudi Arab</item>
+            <item>Egypt</item>
+            <item>Uruguay</item>
+    </string-array>
+
+    <string-array name="GroupB">
+        <item>France</item>
+        <item>Austrlia</item>
+        <item>Peru</item>
+        <item>Denmark</item>
+    </string-array>
+
+
+    <string-array name="GroupC">
+        <item>Portugal</item>
+        <item>Spain</item>
+        <item>Morocco</item>
+        <item>Iran</item>
+    </string-array>
+
+
+
+    <string-array name="GroupD">
+        <item>Argentina</item>
+        <item>Iceland</item>
+        <item>Crotia</item>
+        <item>Nigeria</item>
+    </string-array>
+
+
+    <string-array name="GroupE">
+        <item>Brazil</item>
+        <item>Switzerland</item>
+        <item>Coste Rica</item>
+        <item>Serbia</item>
+    </string-array>
+
+
+    <string-array name="GroupF">
+        <item>Germany</item>
+        <item>Mexico</item>
+        <item>Sweden</item>
+        <item>South Korea</item>
+    </string-array>
+
+
+    <string-array name="GroupG">
+        <item>Belgium</item>
+        <item>Panama</item>
+        <item>Tunisia</item>
+        <item>England</item>
+    </string-array>
+
+
+    <string-array name="GroupH">
+        <item>Poland</item>
+        <item>Senegal</item>
+        <item>Colombia</item>
+        <item>Japan</item>
+    </string-array>
+
+
+
+</resources>
